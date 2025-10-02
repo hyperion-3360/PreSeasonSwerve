@@ -4,10 +4,10 @@ import java.util.HashMap;
 
 import org.littletonrobotics.junction.AutoLog;
 
-public interface SwerveIO {
+public interface ModuleIO {
    
     @AutoLog
-    public static class SwerveIOInputs {
+    public static class ModuleIOInputs{
     
         
     }

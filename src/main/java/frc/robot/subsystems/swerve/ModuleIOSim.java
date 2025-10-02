@@ -1,5 +1,5 @@
 package frc.robot.subsystems.swerve;
 
-public class SwerveIOSim {
+public class ModuleIOSim {
     
 }
