@@ -189,3 +189,4 @@ compile_commands.json
 
 # Version file
 src/main/java/frc/robot/BuildConstants.java
+.gradle/8.11/checksums/checksums.lock
